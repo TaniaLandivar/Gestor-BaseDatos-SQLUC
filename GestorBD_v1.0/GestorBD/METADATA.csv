@@ -1,0 +1,2 @@
+bandera,nombre,nReg,campos,clave,longitud
+1,matematicas,0,nombre;apellido;cedula,cedula,10
