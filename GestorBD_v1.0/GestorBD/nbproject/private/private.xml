@@ -3,26 +3,34 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/AcercaDe.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/fabricasTabla/FabricaTabla.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/Aprobador.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/fabricasTabla/Tabla.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/gestorbd/GestorBD.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/proxy/ProxyGestorTabla.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/proxy/ProxyGestorRegistros.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/VentanaCrear.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/fabricasTabla/TablaCrear.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/TablaUnirRegistros.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/InterfazPrincipal.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/InterfazExplorador.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/GestorRegistros.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/fabricasTabla/TablaModificar.java</file>
             <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/imagenes/inicio.png</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/TablaSelecRegistros.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/GestorTabla.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/cedenaResponsabilidad/AprobadorInstruccion.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/fabricaRegistros/Registro.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/fabricaRegistros/FabricaRegistros.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/proxy/ProxyGestorTabla.java</file>
             <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/tabla.java</file>
-            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/p/fabricasTabla/TablaEliminar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/TablaUnirRegistros.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/fabricasTabla/FabricaTabla.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/TablaModificar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/Aprobador.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/TablaCrear.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/InterfazPrincipal.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/AcercaDe.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/proxy/ProxyGestorRegistros.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/RegistrosAAgregar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/RegistrosAModificar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/InterfazExplorador.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/TablaSelecRegistros.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/GestorTabla.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/AprobadorInstruccion.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/templateMethod/Template.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/cedenaResponsabilidad/GestorRegistros.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/GestorBD.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/RegistrosAEliminar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Datos/TablaEliminar.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Presentacion/VentanaCrear.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/Tabla.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/fabricasTabla/Tabla.java</file>
+            <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/Registro.java</file>
             <file>file:/C:/Users/Tania/Downloads/GestorBD_v1.0/GestorBD/src/Logica/Metodos.java</file>
         </group>
     </open-files>

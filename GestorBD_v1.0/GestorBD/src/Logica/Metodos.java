@@ -6,8 +6,8 @@
 package Logica;
 
 import com.csvreader.CsvReader;
-import gestorbd.GestorBD;
-import static gestorbd.GestorBD.ventanaPrincipal;
+import Presentacion.GestorBD;
+import static Presentacion.GestorBD.ventanaPrincipal;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;

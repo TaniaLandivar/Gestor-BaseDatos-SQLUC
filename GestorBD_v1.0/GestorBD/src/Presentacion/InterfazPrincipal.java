@@ -6,11 +6,10 @@
 package Presentacion;
 
 import Logica.Tabla;
-import p.cedenaResponsabilidad.Aprobador;
-import p.cedenaResponsabilidad.AprobadorInstruccion;
+import Logica.cedenaResponsabilidad.Aprobador;
+import Logica.cedenaResponsabilidad.AprobadorInstruccion;
 import com.csvreader.CsvReader;
-import gestorbd.GestorBD;
-import static gestorbd.GestorBD.tablas;
+import static Presentacion.GestorBD.tablas;
 import java.awt.Color;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;

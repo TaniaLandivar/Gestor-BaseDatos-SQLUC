@@ -7,9 +7,8 @@ package Presentacion;
 
 import Logica.Tabla;
 
-import gestorbd.GestorBD;
-import static gestorbd.GestorBD.tablas;
-import static gestorbd.GestorBD.ventanaPrincipal;
+import static Presentacion.GestorBD.tablas;
+import static Presentacion.GestorBD.ventanaPrincipal;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
