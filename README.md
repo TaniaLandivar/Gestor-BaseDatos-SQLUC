@@ -18,4 +18,4 @@ Gabriela Verdugo
 UNIVERSIDAD DE CUENCA
 
 #Enlaces de interés
-Presentación en power poin del proyecto: 
+Presentación en power point del proyecto: http://es.slideshare.net/GabrielaVerdugo5/presentacion-proyecto-71566222
